@@ -74,12 +74,12 @@
                         url: '/principes'
                     },
                     {
-                        name: 'Продукция',
-                        url: '/products'
-                    },
-                    {
                         name: 'частники',
                         url: '/owners'
+                    },
+                    {
+                        name: 'Продукция',
+                        url: '/products'
                     },
                     {
                         name: 'цены',
