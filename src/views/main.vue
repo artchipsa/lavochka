@@ -352,15 +352,16 @@
     .news-container {
         position: absolute;
         width: 65%;
-        left: 34%;
+        left: 35%;
         bottom: 8%;
         display: flex;
-        justify-content: space-between;
+        justify-content: flex-end;
     }
     .small-message{
         padding: 10px;
         border: 1px dashed $gray;
         border-radius: 5px;
+        margin-right: 20px;
         text-decoration: none;
         z-index: 2;
         &.left {
