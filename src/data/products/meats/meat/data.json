@@ -1,0 +1,28 @@
+{
+    "description": {
+        "tag": "Мясо, шашлыки",
+        "name": "Мясо. Субпродукты."
+    },
+    "img": "url(public/products_cards/07.jpg)",
+    "deals": {
+        "tag": "подход",
+        "title": "<h2>Мясо и субпродукты мы доставляем к вашему столу <span>свежими</span> благодаря использованию вакуумной упаковки.</h2>",
+        "description": "Это что гарантирует соблюдение санитарных норм и качество конечного продукта."
+    },
+    "owners": {
+        "tag": "частники",
+        "owners_list": [{
+                "img": "url(public/fermers/01.jpg)",
+                "link": "/owners/fermers/verbickie",
+                "name": "Вербицкий Дмитрий Васильевич",
+                "ferma": "Вербицкие"
+            },
+            {
+                "img": "url(public/fermers/11.jpg)",
+                "link": "/owners/fermers/fast_meat",
+                "name": "Галкин Алексей Николаевич",
+                "ferma": "«Быстро мясо»"
+            }
+        ]
+    }
+}

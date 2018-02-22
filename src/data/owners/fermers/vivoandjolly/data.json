@@ -1,0 +1,26 @@
+{
+    "description": {
+        "name": "Воронцова Екатерина",
+        "adress": "Россия, Красноярский Край, село луговое",
+        "farm": "Пекарня Vivo and Jolly"
+    },
+    "products": {
+        "tag": "виды продуктов частника",
+        "products_list": [{
+            "name": "Кондитерские изделия",
+            "url": "/products/breads/pastry"
+        }]
+    },
+    "history": {
+        "tag": "история",
+        "title": "<h2>Виво и Джолли - <span>уникальная</span> пекарня</h2>",
+        "description": "Основным принципом которой является приготовление продукции только из натуральных ингридиентов по рецептам, собранным со всего мира."
+    },
+    "imgs": [
+        "url(public/fermers/2/1.jpg)",
+        "url(public/fermers/2/2.jpg)",
+        "url(public/fermers/2/3.jpg)",
+        "url(public/fermers/2/4.jpg)",
+        "url(public/fermers/2/5.jpg)"
+    ]
+}

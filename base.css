@@ -1,0 +1,65 @@
+@font-face {
+    font-family: bebas;
+    src: url('src/assets/fonts/bebas/BebasNeueRegular.ttf');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: bebas;
+    src: url('src/assets/fonts/bebas/BebasNeueBold.ttf');
+    font-weight: 800;
+}
+
+@font-face {
+    font-family: bebas;
+    src: url('src/assets/fonts/bebas/BebasNeueBook.ttf');
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: bebas;
+    src: url('src/assets/fonts/bebas/BebasNeueLight.ttf');
+    font-weight: 200;
+}
+
+@font-face {
+    font-family: din;
+    src: url('src/assets/fonts/din/DINPro-Regular.otf');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: din;
+    src: url('src/assets/fonts/din/DINPro-Bold.otf');
+    font-weight: 800;
+}
+
+@font-face {
+    font-family: din;
+    src: url('src/assets/fonts/din/DINPro-Medium.otf');
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: din;
+    src: url('src/assets/fonts/din/DINPro-Light.otf');
+    font-weight: 200;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+    font-family: din;
+}
+
+.landscape {
+    display: none;
+}
+.small-message{
+    //display: none!important;
+}

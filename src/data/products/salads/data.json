@@ -1,0 +1,18 @@
+{
+    "description": {
+        "name": "Салаты. Готовые блюда",
+        "small_message": "40 поставщиков 234 видов продукции"
+    },
+    "items": {
+        "salad": {
+            "name": "Салаты",
+            "img": "public/products/11.png",
+            "link": "/products/salads/salad"
+        },
+        "ready": {
+            "name": "Готовые блюда",
+            "img": "public/products/12.png",
+            "link": "/products/salads/ready"
+        }
+    }
+}

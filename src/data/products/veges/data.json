@@ -1,0 +1,28 @@
+{
+    "description": {
+        "name": "плоды и расстения",
+        "small_message": "40 поставщиков 234 видов продукции"
+    },
+    "items": {
+        "fruits": {
+            "name": "фрукты",
+            "img": "public/products/36.png",
+            "link": "/products/veges/fruits"
+        },
+        "vegetables": {
+            "name": "Овощи и зелень",
+            "img": "public/products/37.png",
+            "link": "/products/veges/vegetables"
+        },
+        "nuts": {
+            "name": "Орехи, сухофрукты",
+            "img": "public/products/38.png",
+            "link": "/products/veges/nuts"
+        },
+        "frozen": {
+            "name": "Замороженная ягода, овощи",
+            "img": "public/products/39.png",
+            "link": "/products/veges/frozen"
+        }
+    }
+}

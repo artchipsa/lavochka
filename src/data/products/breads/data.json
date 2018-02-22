@@ -1,0 +1,23 @@
+{
+    "description": {
+        "name": "Хлеб, выпечка, кондитерка",
+        "small_message": "40 поставщиков 234 видов продукции"
+    },
+    "items": {
+        "pastry": {
+            "name": "Кондитерские изделия",
+            "img": "public/products/29.png",
+            "link": "/products/breads/pastry"
+        },
+        "bread": {
+            "name": "Хлеб",
+            "img": "public/products/30.png",
+            "link": "/products/breads/bread"
+        },
+        "pone": {
+            "name": "Сдоба",
+            "img": "public/products/31.png",
+            "link": "/products/breads/pone"
+        }
+    }
+}

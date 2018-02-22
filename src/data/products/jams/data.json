@@ -1,0 +1,58 @@
+{
+    "description": {
+        "name": "Запасы и заготовки",
+        "small_message": "40 поставщиков 234 видов продукции"
+    },
+    "items": {
+        "jam": {
+            "name": "Заготовки, варенье, консервация",
+            "img": "public/products/13.png",
+            "link": "/products/jams/jam"
+        },
+        "vegetableoil": {
+            "name": "Масло растительное",
+            "img": "public/products/14.png",
+            "link": "/products/jams/vegetableoil"
+        },
+        "honey": {
+            "name": "Мед",
+            "img": "public/products/15.png",
+            "link": "/products/jams/honey"
+        },
+        "water": {
+            "name": "Напитки (вода, компоты)",
+            "img": "public/products/16.png",
+            "link": "/products/jams/water"
+        },
+        "tea": {
+            "name": "Чай",
+            "img": "public/products/17.png",
+            "link": "/products/jams/tea"
+        },
+        "sauce": {
+            "name": "Соусы",
+            "img": "public/products/18.png",
+            "link": "/products/jams/sauce"
+        },
+        "snack": {
+            "name": "Сухие продукты, снэки",
+            "img": "public/products/19.png",
+            "link": "/products/jams/snack"
+        },
+        "gifts": {
+            "name": "Подарки",
+            "img": "public/products/20.png",
+            "link": "/products/jams/gifts"
+        },
+        "condiments": {
+            "name": "Приправы",
+            "img": "public/products/21.png",
+            "link": "/products/jams/condiments"
+        },
+        "babyfood": {
+            "name": "Детское питание",
+            "img": "public/products/22.png",
+            "link": "/products/jams/babyfood"
+        }
+    }
+}

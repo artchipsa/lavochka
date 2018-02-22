@@ -1,0 +1,33 @@
+{
+    "description": {
+        "name": "Мясо, шашлыки",
+        "small_message": "40 поставщиков 234 видов продукции"
+    },
+    "items": {
+        "shishkebab": {
+            "name": "Шашлык",
+            "img": "public/products/06.png",
+            "link": "/products/meats/shishkebab"
+        },
+        "meat": {
+            "name": "Мясо. Субпродукты.",
+            "img": "public/products/07.png",
+            "link": "/products/meats/meat"
+        },
+        "chicken": {
+            "name": "Курица. Субпродукты",
+            "img": "public/products/08.png",
+            "link": "/products/meats/chicken"
+        },
+        "grill": {
+            "name": "Гриль",
+            "img": "public/products/09.png",
+            "link": "/products/meats/grill"
+        },
+        "readyto": {
+            "name": "Полуфабрикаты замороженные",
+            "img": "public/products/10.png",
+            "link": "/products/meats/readyto"
+        }
+    }
+}

@@ -1,0 +1,135 @@
+{
+    "description": {
+        "name": "плоды и расстения",
+        "small_message": "40 поставщиков 234 видов продукции"
+    },
+    "fermers": [{
+            "img": "url(public/fermers/01.jpg)",
+            "link": "/owners/fermers/verbickie",
+            "name": "Вербицкий Дмитрий Васильевич",
+            "ferma": "Вербицкие",
+            "category": "meats",
+            "distance": "0"
+        },
+        {
+            "img": "url(public/fermers/02.jpg)",
+            "link": "/owners/fermers/vivoandjolly",
+            "name": "Воронцова Екатерина",
+            "ferma": "Пекарня Vivo and Jolly",
+            "category": "breads",
+            "distance": "0"
+        },
+        {
+            "img": "url(public/fermers/03.jpg)",
+            "link": "/owners/fermers/pekarna1",
+            "name": "Сергей Гаврицкий",
+            "ferma": "Пекарня №1",
+            "category": "breads",
+            "distance": "0"
+        },
+        {
+            "img": "url(public/fermers/04.jpg)",
+            "link": "/owners/fermers/vodnev",
+            "name": "Воднев Кирилл",
+            "ferma": "Воднев хлеб",
+            "category": "breads",
+            "distance": "0"
+        },
+        {
+            "img": "url(public/fermers/05.jpg)",
+            "link": "/owners/fermers/valter",
+            "name": "Вальтер Игорь",
+            "ferma": "Вальтер Игорь",
+            "category": "veges",
+            "distance": "0"
+        },
+        {
+            "img": "url(public/fermers/06.jpg)",
+            "link": "/owners/fermers/arnoldova",
+            "name": "Арнольдова Юлия",
+            "ferma": "Юлия Арнольдова - торты",
+            "category": "breads",
+            "distance": "0"
+        },
+        {
+            "img": "url(public/fermers/07.jpg)",
+            "link": "/owners/fermers/ric",
+            "name": "Ковалева Ольга Дмитриевна",
+            "ferma": "чай РиК",
+            "category": "jams",
+            "distance": "0"
+        },
+        {
+            "img": "url(public/fermers/08.jpg)",
+            "link": "/owners/fermers/tzartea",
+            "name": "Конгарова Светлана Николаевна",
+            "ferma": "Царь чай",
+            "category": "jams",
+            "distance": "0"
+        },
+        {
+            "img": "url(public/fermers/09.jpg)",
+            "link": "/owners/fermers/stankus",
+            "name": "Станкус Олег",
+            "ferma": "ИП Станкус",
+            "category": "fishs",
+            "distance": "0"
+        },
+        {
+            "img": "url(public/fermers/10.jpg)",
+            "link": "/owners/fermers/apk",
+            "name": "Балаков Александр Анатольевич",
+            "ferma": "ООО Алтайская продовольственная компания",
+            "category": "jams",
+            "distance": "0"
+        },
+        {
+            "img": "url(public/fermers/11.jpg)",
+            "link": "/owners/fermers/fast_meat",
+            "name": "Галкин Алексей Николаевич",
+            "ferma": "«Быстро мясо»",
+            "category": "meats",
+            "distance": "0"
+        },
+        {
+            "img": "url(public/fermers/13.jpg)",
+            "link": "/owners/fermers/khmilev",
+            "name": "Хмылев Дмитрий Юрьевич",
+            "ferma": "Частная сыроварня Хмылева",
+            "category": "milks",
+            "distance": "0"
+        },
+        {
+            "img": "url(public/fermers/14.jpg)",
+            "link": "/owners/fermers/shur",
+            "name": "Шурыгина Е.В",
+            "ferma": "ИП Шурыгина Е.В",
+            "category": "jams",
+            "distance": "0"
+        },
+        {
+            "img": "url(public/fermers/15.jpg)",
+            "link": "/owners/fermers/Kugayan",
+            "name": "Волков Евгений Петрович",
+            "ferma": "Куяганский маслосырзавод",
+            "category": "milks",
+            "distance": "2000"
+        },
+        {
+            "img": "url(public/fermers/16.jpg)",
+            "link": "/owners/fermers/tysh",
+            "name": "Артемов Евгений Александрович",
+            "ferma": "ООО «Мясной завод Алтая»",
+            "category": "jams",
+            "distance": "2000"
+        },
+        {
+            "img": "url(public/fermers/17.jpg)",
+            "link": "/owners/fermers/triffan",
+            "name": "Трифонов Павел Анатольевич",
+            "ferma": "ИП Трифонов",
+            "category": "jams",
+            "distance": "2000"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "description": {
+        "name": "Арнольдова Юлия",
+        "adress": "Россия, Красноярский Край, село луговое",
+        "farm": "Юлия Арнольдова - торты"
+    },
+    "products": {
+        "tag": "виды продуктов частника",
+        "products_list": [{
+            "name": "Кондитерские изделия",
+            "url": "/products/breads/pastry"
+        }]
+    },
+    "imgs": [
+        "url(public/fermers/6/1.jpg)"
+    ]
+}

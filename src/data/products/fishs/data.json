@@ -1,0 +1,23 @@
+{
+    "description": {
+        "name": "Рыба",
+        "small_message": "40 поставщиков 234 видов продукции"
+    },
+    "items": {
+        "coldsmoked": {
+            "name": "Рыба холодного копчения",
+            "img": "public/products/33.png",
+            "link": "/products/fishs/coldsmoked"
+        },
+        "dried": {
+            "name": "Рыба вяленая",
+            "img": "public/products/34.png",
+            "link": "/products/fishs/dried"
+        },
+        "frozen": {
+            "name": "Рыба замороженная",
+            "img": "public/products/35.png",
+            "link": "/products/fishs/frozen"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "description": {
+        "name": "Колбасы, деликатесы",
+        "small_message": "40 поставщиков 234 видов продукции"
+    },
+    "items": {
+        "delicacy": {
+            "name": "Колбасы вареные, полукопченные, ветчины.",
+            "img": "public/products/01.png",
+            "link": "/products/sausages/delicacy"
+        },
+        "sausage": {
+            "name": "Сосиски, сардельки, шпикачки",
+            "img": "public/products/02.png",
+            "link": "/products/sausages/sausage"
+        },
+        "uncookedsmoked": {
+            "name": "Колбасы сырокопченые",
+            "img": "public/products/03.png",
+            "link": "/products/sausages/uncookedsmoked"
+        },
+        "smokeddelicacy": {
+            "name": "Деликатесы, копченые и сырокопченые",
+            "img": "public/products/05.png",
+            "link": "/products/sausages/smokeddelicacy"
+        }
+    }
+}

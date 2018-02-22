@@ -1,0 +1,27 @@
+{
+    "description": {
+        "name": "Станкус Олег",
+        "adress": "Россия, Красноярский Край, село луговое",
+        "farm": "ИП Станкус"
+    },
+    "products": {
+        "tag": "виды продуктов частника",
+        "products_list": [{
+                "name": "Рыба холодного копчения",
+                "url": "/products/fishs/coldsmoked"
+            },
+            {
+                "name": "Рыба вяленая",
+                "url": "/products/fishs/dried"
+            },
+            {
+                "name": "Рыба замороженная",
+                "url": "/products/fishs/frozen"
+            }
+        ]
+    },
+    "imgs": [
+        "url(public/fermers/9/1.jpg)",
+        "url(public/fermers/9/2.jpg)"
+    ]
+}

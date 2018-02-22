@@ -1,0 +1,28 @@
+{
+    "description": {
+        "tag": "Хлеб, выпечка, кондитерка",
+        "name": "Хлеб"
+    },
+    "img": "url(public/products_cards/30.jpg)",
+    "deals": {
+        "tag": "подход",
+        "title": "<h2>Хлеб <span>без использования</span> смесей, только натуральные ингредиенты и закваска.</h2>",
+        "description": "Вы почувствуете отличие, отрезав ломоть ароматного пышного хлеба."
+    },
+    "owners": {
+        "tag": "частники",
+        "owners_list": [{
+                "img": "url(public/fermers/03.jpg)",
+                "link": "/owners/fermers/pekarna1",
+                "name": "Сергей Гаврицкий",
+                "ferma": "Пекарня №1"
+            },
+            {
+                "img": "url(public/fermers/04.jpg)",
+                "link": "/owners/fermers/vodnev",
+                "name": "Воднев Кирилл",
+                "ferma": "Воднев хлеб"
+            }
+        ]
+    }
+}

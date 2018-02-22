@@ -1,0 +1,38 @@
+{
+    "description": {
+        "name": "Молочная продукция",
+        "small_message": "40 поставщиков 234 видов продукции"
+    },
+    "items": {
+        "icecream": {
+            "name": "Мороженое",
+            "img": "public/products/23.png",
+            "link": "/products/milks/icecream"
+        },
+        "milk": {
+            "name": "Молоко, масло, сметана, творог",
+            "img": "public/products/24.png",
+            "link": "/products/milks/milk"
+        },
+        "yogurts": {
+            "name": "Йогурты",
+            "img": "public/products/25.png",
+            "link": "/products/milks/yogurts"
+        },
+        "sourmilk": {
+            "name": "Кисломолочная продукция",
+            "img": "public/products/26.png",
+            "link": "/products/milks/sourmilk"
+        },
+        "cheese": {
+            "name": "Сыры",
+            "img": "public/products/27.png",
+            "link": "/products/milks/cheese"
+        },
+        "egg": {
+            "name": "Яйцо",
+            "img": "public/products/28.png",
+            "link": "/products/milks/egg"
+        }
+    }
+}
