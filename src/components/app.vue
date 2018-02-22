@@ -78,7 +78,7 @@
                         url: '/owners'
                     },
                     {
-                        name: 'Продукция',
+                        name: 'продукция',
                         url: '/products'
                     },
                     {
