@@ -22,12 +22,16 @@
             router-link(to="/products/breads")
                 img.float(src="public/m6.png", alt="")
             .container
-                router-link(to="/events/new-shop").small-message
-                    .tag Свежие новости
-                    span Открытие магазина 8 сентрября
-                router-link(to="/events/degustation").small-message.left
-                    .tag Свежие новости
-                    span Экскурсии с дегустациями
+                .news-container
+                    router-link(to="/events/new-shop").small-message
+                        .tag Свежие новости
+                        span Открытие магазина 8 сентрября
+                    router-link(to="/events/degustation").small-message
+                        .tag Свежие новости
+                        span Экскурсии с дегустациями
+                    router-link(to="/events/zeleniy").small-message
+                        .tag Свежие новости
+                        span Фестиваль "Зеленый"
                 .left-info-block.main-block
                     h1 супермаркет натральных продуктов
 </template>
@@ -61,7 +65,7 @@
         methods:{
             eventShow(){
                 Velocity(
-                    document.querySelector('.small-message'), 
+                    document.querySelector('.news-container'), 
                     {
                         opacity: 1
                     }, 
@@ -76,7 +80,7 @@
             },
             eventHide(){
                 Velocity(
-                    document.querySelector('.small-message'),
+                    document.querySelector('.news-container'),
                     {
                         opacity: 0
                     },
@@ -273,13 +277,13 @@
     }
     h2.mission{
         position: absolute;
-        left: 30%;
-        top: 100px;
+        left: 20%;
+        top: 2.5%;
         font-family: bebas;
         font-weight: 800;
-        font-size: 3.2vw;
+        font-size: 2.5vw;
         display: block;
-        line-height: 115%;
+        line-height: 100%;
         margin: 0 auto;
         margin-bottom: 50px;
         color: $black;
@@ -302,8 +306,8 @@
         }
         &.news {
             position: absolute;
-            bottom: 5%;
-            left: 46%;
+            bottom: 10%;
+            left: 20%;
             font-family: bebas;
             font-weight: 800;
             font-size: 20px;
@@ -345,10 +349,15 @@
         display: none;
         opacity: 0;
     }
-    .small-message{
+    .news-container {
         position: absolute;
+        width: 65%;
+        left: 34%;
         bottom: 8%;
-        right: 3%;
+        display: flex;
+        justify-content: space-between;
+    }
+    .small-message{
         padding: 10px;
         border: 1px dashed $gray;
         border-radius: 5px;
