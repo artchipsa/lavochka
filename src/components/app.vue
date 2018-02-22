@@ -20,7 +20,7 @@
                 ul
                     li(v-for="social in socials")
                         a(v-bind:href="social.url", target="_blank")
-                            i.fa(aria-hidden="true" :class="social.icon")
+                            i.fa(aria-hidden="true" :class="social.icon")   
             .links-block
                 ul
                     li(v-for="link in links"  @click="mainLineAnimation")
@@ -58,7 +58,7 @@
                 ],
                 links:[
                     {
-                        name: 'Главная',
+                        name: 'главная',
                         url: '/'
                     },
                     {
