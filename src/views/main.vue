@@ -397,6 +397,14 @@
             left: 47.5%;
         }
     }
+    @media (max-width: 1200px) {
+        .news-container {
+            display: none!important;
+        }
+        .link.news {
+            left: 45%;
+        }
+    }
     @media (max-width: 1024px){
 
         .logo{
@@ -405,12 +413,9 @@
         .link{
             font-size: 15px;
         }
-        .small-message {
-            display: none!important;
-        }
 
     }
-    @import 'src/assets/styles/responsive.scss';    
+    @import 'src/assets/styles/responsive.scss';
 
     @media (max-width: 469px){
         .float{
@@ -418,7 +423,6 @@
         }
         .logo{
             display: block;
-            
         }
         .logo svg{
             width: 120px;
@@ -428,6 +432,7 @@
             font-size: 20px;
             width: 70%;
             left: 15%;
+            top: 15%;
         }
     }
     @media (max-width: 469px){
